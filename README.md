@@ -1,12 +1,5 @@
-### Hi there 👋
 
-My name is Marcos Oliveira.
-
-For now I'm just learning a few things around web development and finishing my college of computer science. 
-I have a lot of interest in Javascript and I also work with PHP.
-
-You can find me on [Twitter](https://twitter.com/_olivmarcos) and [Instagram](https://www.instagram.com/_olivmarcos/).
-
+Hi!
 <!--
 **olivmarcos/olivmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
