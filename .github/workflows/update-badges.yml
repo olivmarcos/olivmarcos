@@ -5,8 +5,7 @@ on:
     inputs:
       run:
         description: 'Run workflow manually'
-        required: true
-        default: 'true'
+        required: false
 
 jobs:
   update-readme:
