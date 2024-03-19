@@ -1,6 +1,7 @@
 Hi!
 
 <!--START_SECTION:badges-->
+[![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/7ceb26f4-115c-4a67-8e69-387f44b58a2a "GitHub Actions")
 <!--END_SECTION:badges-->
 
 <!--
